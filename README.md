@@ -1,7 +1,9 @@
 # testn
 test netlity build a web-side
 
-[Google]: http://google.com/
-   [Google]: http://google.com/
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
 
-使用nuxt构建一个静态站点， [部署至 Netlify]: https://zh.nuxtjs.org/faq/netlify-deployment#%E5%85%A5%E9%97%A8 "部署至 Netlify"
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
